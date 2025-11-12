@@ -1,0 +1,27 @@
+.premium-result-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.premium-result-card h3 {
+  color: #0078d4;
+  margin-bottom: 10px;
+}
+
+.premium-result-card p {
+  margin: 6px 0;
+}
+
+.premium-result-card hr {
+  margin: 10px 0;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
+
+.premium-result-card .premium-amount {
+  color: #0078d4;
+  font-weight: bold;
+}
